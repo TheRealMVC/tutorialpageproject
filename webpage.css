@@ -1,0 +1,32 @@
+header {
+    font-family: 'Archivo Black', sans-serif;
+    background-color:  #7FA5A4;
+height: 100px;
+margin-top: 6px;
+margin-bottom: 100px;
+margin-right: 150px;
+margin-left: 80px;
+}
+
+#container {
+    position: relative;
+    margin: 150px 0 0 250px;
+  }
+  #container svg {
+    position: absolute;
+  }
+  #blue {
+    top: -150px;
+  }
+  #green {
+    left: -200px;
+  }
+  #yellow {
+    left: 200px;
+  }
+  #blue-line {
+    margin-left: -200px;
+  }
+  #green-line {
+    margin-top: -60px;
+  }

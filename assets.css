@@ -1,0 +1,45 @@
+
+
+/*Main Colors
+
+.color-primary-0 { color: #CFD6D6 }	/* Main Primary color */
+.color-primary-1 { color: #7FA5A4 }
+.color-primary-2 { color: #A1BDBC }
+.color-primary-3 { color: #94A09F }
+.color-primary-4 { color: #808E8D }
+
+.color-secondary-1-0 { color: #D6D8DD }	/* Main Secondary color (1) */
+.color-secondary-1-1 { color: #8E9AB3 }
+.color-secondary-1-2 { color: #ACB5C7 }
+.color-secondary-1-3 { color: #A3A7AE }
+.color-secondary-1-4 { color: #8E929C }
+
+.color-secondary-2-0 { color: #E4EBE3 }	/* Main Secondary color (2) */
+.color-secondary-2-1 { color: #A5D4A3 }
+.color-secondary-2-2 { color: #BFDFBE }
+.color-secondary-2-3 { color: #C2D1C2 }
+.color-secondary-2-4 { color: #ABBDAB }
+
+
+
+/* As RGBa codes */
+
+.rgba-primary-0 { color: rgba(207,214,214,1) }	/* Main Primary color */
+.rgba-primary-1 { color: rgba(127,165,164,1) }
+.rgba-primary-2 { color: rgba(161,189,188,1) }
+.rgba-primary-3 { color: rgba(148,160,159,1) }
+.rgba-primary-4 { color: rgba(128,142,141,1) }
+
+.rgba-secondary-1-0 { color: rgba(214,216,221,1) }	/* Main Secondary color (1) */
+.rgba-secondary-1-1 { color: rgba(142,154,179,1) }
+.rgba-secondary-1-2 { color: rgba(172,181,199,1) }
+.rgba-secondary-1-3 { color: rgba(163,167,174,1) }
+.rgba-secondary-1-4 { color: rgba(142,146,156,1) }
+
+.rgba-secondary-2-0 { color: rgba(228,235,227,1) }	/* Main Secondary color (2) */
+.rgba-secondary-2-1 { color: rgba(165,212,163,1) }
+.rgba-secondary-2-2 { color: rgba(191,223,190,1) }
+.rgba-secondary-2-3 { color: rgba(194,209,194,1) }
+.rgba-secondary-2-4 { color: rgba(171,189,171,1) }
+
+/* Fonts*/
